@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kionworks33-droid.github.io/sitemap.xml
+Sitemap: https://kio-michishirube.github.io/sitemap.xml
